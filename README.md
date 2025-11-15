@@ -1,4 +1,4 @@
-# event-driven
+# OrchestratorX - Backend and Plarform Framework
 ![img.png](docs/eventdrive-beatles.webp)
 
 A robust Go library designed to simplify distributed transactions in microservices architecture. It provides:
@@ -207,9 +207,3 @@ func consumer(repo types.Repository) error {
 	return nil
 }
 ```
-
-## Contributing
-
-We welcome contributions to make this library even better! Please read our [Contributing Guidelines](docs/CONTRIBUTING.md) to get started.
-
-The project follows a trunk-based development model, and all contributions should be made through pull requests targeting the `main` branch.
